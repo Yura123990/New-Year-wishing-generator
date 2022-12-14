@@ -1,0 +1,111 @@
+body{
+    background-color: darkslategrey;
+}
+
+.main-heading{
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-decoration: underline dotted LightGreen 5px;
+}
+
+.main-form{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+.main-input{
+    width:70%;
+    font-size:200%;
+    font-family: 'Roboto', sans-serif;
+}
+
+label{
+    font-size:202%;
+    font-family:'Montserrat', sans-serif;
+}
+
+legend{
+    font-size:200%;
+    color:blanchedalmond;
+    font-family:'Montserrat', sans-serif;
+}
+
+.main-button{
+    border:4px solid #004156;
+    background-color: NavajoWhite;
+    border-radius:5px;
+    width:30%;
+    font-size:220%;
+    font-family:'Montserrat', sans-serif;
+    font-weight:700;
+}
+.main-button:hover{
+    background-color: #004156;
+    color:azure;
+    border:4px solid NavajoWhite;
+}
+
+#birthday{
+    background-color: #0080ff;
+    padding: 18px;
+    font-family: 'Roboto Mono', monospace;
+    color: #ffffff;
+    font-size: 18px;
+    border: none;
+    outline:none;
+    border-radius: 5px;
+    border-left: 30px solid black;
+    border-right: 30px solid black;
+    margin:30px;
+}
+
+::-webkit-calendar-picker-indicator{
+    background-color: #ffffff;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.name-heading{
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.new-year-wishing{
+    color:white;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+    width:40%;
+    text-align:justify;
+    text-indent:10px;
+}
+
+.fortune-cookie{
+    position:absolute;
+    top:0;
+    right:0;
+}
+
+.fortune{
+    float:right;
+    position: relative;
+}
+
+#wishbutton{
+    background: #016ABC;
+	color: #fff;
+	border: 3px solid #eee;
+	border-radius: 20px;
+    height:50px;
+}
+
+#wishbutton:hover {
+	background: #016ABC;
+	color: #fff;
+	border: 3px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
