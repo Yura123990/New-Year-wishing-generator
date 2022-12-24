@@ -48,6 +48,7 @@
 .navbar{
     background-color:darkslategrey;
     overflow:hidden;
+    border-bottom: 4px solid blanchedalmond;
 }
 .navbar a{
     text-decoration:none;
@@ -57,7 +58,10 @@
     margin: 15px;
     float:left;
     font-weight:500;
+    border-left: 4px solid #D38B5D;
+    border-right: 4px solid #D38B5D;
 }
+
 body{
     margin:0;
 }
@@ -203,4 +207,19 @@ legend{
 	border-radius: 20px;
 	box-shadow: 5px 5px 5px #eee;
 	text-shadow: none;
+}
+
+
+h3.quiz{
+    font-family: 'Montserrat', sans-serif;
+    font-size:110%;
+    color:lavender;
+}
+
+label.quiz{
+    font-family: 'Roboto Mono', monospace;
+    font-weight:700;
+    font-size:100%;
+    color:whitesmoke;
+    border-right:4px solid blanchedalmond;
 }
