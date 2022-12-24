@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono:wght@400;700&family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;500&family=Roboto+Mono:wght@100;300;400;500;600;700&display=swap" rel="stylesheet"> 
+    <title>Генератор передбачень</title>
+</head>
+<body>
+    <div class="navbar">
+        <a href="index.html">Домашня сторінка</a>
+        <a href="wishing-generator.html" style="color:darkslategrey; background-color:white;">Генератор побажань</a>
+        <a href="inspiration.php">Дізнатись більше</a>
+        <a href="quiz.php">Новорічний квіз</a>
+    </div>
+    <h1 class="main-heading">Генератор побажань на 2023 рік</h1>
+
+    <form action="action.php" method="get" class="main-form">
+    <fieldset>
+        <legend>Ваше повне ім'я</legend>
+        <input type="text" id="fname" name="fname" placeholder="Введіть своє ім'я" class="main-input" required><br>
+        <input type="text" id="lname" name="lname" placeholder="Введіть своє прізвище" class="main-input" required>
+    </fieldset>
+    <!-- <input type="date" id="birthday" name="birthday" required>
+    <label for="birthday">Введіть свій день народження</label> -->
+    <hr><input type="submit" value="Надіслати" class="main-button">
+    </form>
+</body>
+</html>

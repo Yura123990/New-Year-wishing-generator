@@ -1,3 +1,98 @@
+.christmas-tree{
+    position:absolute;
+    right:0;
+    top:50px;
+}
+
+.triangle{
+  width: 0;
+  border: 150px solid transparent;
+  border-bottom-color:green;
+  padding:0;
+  margin:0;
+}
+.triangle1{
+    width: 0;
+    border: 150px solid transparent;
+    border-bottom-color:green;
+    margin-bottom:30%;
+    position:absolute;
+    z-index: 1;
+    margin-top: -240px;
+  }
+.triangle2{
+    width: 0;
+    border: 150px solid transparent;
+    border-bottom-color:green;
+    margin-bottom:30%;
+    position:absolute;
+    z-index: 2;
+    margin-top: -220px;
+  }
+.stovbur{
+    height:40px;
+    background-color: yellow;
+    z-index: 3;
+}
+
+.stovbur1{
+    margin-left:35%;
+    margin-top: -40px;
+    width:30%;
+    height:60px;
+    background-color: rgb(97, 62, 33);
+    z-index: 5;
+}
+
+
+.navbar{
+    background-color:darkslategrey;
+    overflow:hidden;
+}
+.navbar a{
+    text-decoration:none;
+    color:white;
+    font-family:Montserrat;
+    font-size:120%;
+    margin: 15px;
+    float:left;
+    font-weight:500;
+}
+body{
+    margin:0;
+}
+.main{
+    color:white;
+    font-size:450%;
+    font-family:Roboto Mono;
+}
+.main_section{
+    padding-left:20px;
+    color:blanchedalmond;
+}
+.second{
+    color:white;
+    font-size:170%;
+    font-family:Roboto Mono;
+}
+pre{
+    font-family:Montserrat;
+    font-size:120%;
+}
+pre.facts{
+    color:white;
+    font-weight:400;
+    line-height:1.8;
+}
+.footer{
+    background-color:rgb(205, 92, 92);
+    padding:15px; 
+    font-size:120%;
+    float:bottom;
+    color:white;
+    text-align:center;
+}
+
 body{
     background-color: darkslategrey;
 }
