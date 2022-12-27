@@ -223,3 +223,14 @@ label.quiz{
     color:whitesmoke;
     border-right:4px solid blanchedalmond;
 }
+
+.result{
+    color:khaki;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.res{
+    font-family: 'Montserrat', sans-serif;
+    font-size:190%;
+    color:lavender;
+}
