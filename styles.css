@@ -145,27 +145,6 @@ legend{
     border:4px solid NavajoWhite;
 }
 
-#birthday{
-    background-color: #0080ff;
-    padding: 18px;
-    font-family: 'Roboto Mono', monospace;
-    color: #ffffff;
-    font-size: 18px;
-    border: none;
-    outline:none;
-    border-radius: 5px;
-    border-left: 30px solid black;
-    border-right: 30px solid black;
-    margin:30px;
-}
-
-::-webkit-calendar-picker-indicator{
-    background-color: #ffffff;
-    padding: 5px;
-    cursor: pointer;
-    border-radius: 3px;
-}
-
 .name-heading{
     color:white;
     font-family: 'Montserrat', sans-serif;
