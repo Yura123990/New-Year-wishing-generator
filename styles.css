@@ -213,3 +213,13 @@ label.quiz{
     font-size:190%;
     color:lavender;
 }
+
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: khaki;
+    color: darkslategray;
+    font-family:'Montserrat', sans-serif;
+    padding:15px;
+}
