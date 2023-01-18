@@ -16,6 +16,7 @@
             <a href="wishing-generator.html">Генератор побажань</a>
             <!-- <a href="inspiration.php">Дізнатись більше</a> -->
             <a href="quiz.html" style="color:darkslategrey; background-color:white;">Новорічний квіз</a>
+            <a href="match-answers.php">Миколай навколо світу</a>
         </div>
 
         <h3 class="res">Ваш результат:</h3>

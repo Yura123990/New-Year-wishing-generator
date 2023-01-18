@@ -8,6 +8,12 @@
     <title>Передбачення на 2023 рік</title>
 </head>
 <body>
+<div class="navbar">
+        <a href="index.html">Домашня сторінка</a>
+        <a href="wishing-generator.html" style="color:darkslategrey; background-color:white;">Генератор побажань</a>
+        <a href="quiz.html">Новорічний квіз</a>
+        <a href="match-answers.php">Миколай навколо світу</a>
+    </div>
     <?php
         $fname = $_GET['fname'];
         $lname = $_GET['lname'];

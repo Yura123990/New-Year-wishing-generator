@@ -227,3 +227,32 @@ footer{
 .for-footer{
     font-family: 'Roboto Mono', monospace;
 }
+
+h1.match{
+    color:white;
+    font-size:170%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:300;
+    border-bottom: 4px solid slategray;
+}
+
+h3.match{
+    color:white;
+    font-size:120%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+}
+
+.match-select{
+    float:right;
+    margin-top: -80px;
+    width:40%;
+    height:60px;
+    background-color:cadetblue;
+    border:3px solid white;
+}
+
+.match-select option{
+    background-color: burlywood;
+}
+
