@@ -64,5 +64,10 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-BS28w5Bi7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/G2UkjKFpsIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cIssUjadFL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+        <footer>
+        <h3>Yura Seniura</h3>
+        <p class="for-footer">©2023 New Year wishing generator. All rights reserved.</p>
+    </footer>
 </body>
 </html>

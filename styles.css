@@ -218,8 +218,12 @@ footer{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: khaki;
-    color: darkslategray;
+    background-color: slategrey;
+    color: rgb(32, 46, 46);
     font-family:'Montserrat', sans-serif;
     padding:15px;
+}
+
+.for-footer{
+    font-family: 'Roboto Mono', monospace;
 }

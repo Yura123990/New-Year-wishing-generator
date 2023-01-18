@@ -63,5 +63,10 @@
             if($a12 == $q12){$sum++;}//q12
             echo "<h1 class='result'>".$sum."/".$max."</h1>";
         ?>
+
+        <footer>
+            <h3>Yura Seniura</h3>
+            <p class="for-footer">©2023 New Year wishing generator. All rights reserved.</p>
+        </footer>
     </body>
 </html>
