@@ -63,12 +63,12 @@ $answers = [6, 5, 4, 3, 1, 2];
 
         for ($i = 0; $i < $q; $i++) {
             $useranswers[$i] = $_POST['sl' . $i + 1];
-            //var_dump($useranswers);
+            var_dump($useranswers);
         }
         $c = 0;
         $result = 0;
         foreach($answers as $i){
-            // echo $useranswers[$c];
+            echo $useranswers[$c];
             // echo $i;
             if ($useranswers[$c] == $i){
                 $result = $result + 1;
